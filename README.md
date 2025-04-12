@@ -1,5 +1,5 @@
 # Logisim Chinese version
-Logisim汉化版开源网址：https://github.com/SecondCat/Logisim-Chinese-version
+Logisim汉化版开源网址：https://github.com/SecondCat/Logisim-Chinese-version/
 
 Logisim官方网址：http://www.cburch.com/logisim/
 
