@@ -10,7 +10,7 @@ If ErrorLevel 1 goto YES
 :YES
     cd "..\exe"
     ".\LogisimLauncher.exe"
-    cd "..\"
+    cd "..\build"
 exit
 
 :NO
