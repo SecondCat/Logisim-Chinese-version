@@ -1,4 +1,5 @@
 # Logisim2.7.1 免Java中文版
+如果打开软件是英文界面，依次点击左上角 File -> Preferences... -> Chinese 切换为中文
 
 📥 GitHub下载：https://github.com/SecondCat/Logisim-Chinese-version/releases/ \
 🌐 CSDN：https://blog.csdn.net/m0_59667483/article/details/125941447  \
@@ -16,8 +17,9 @@
 开源协议:	遵循 GPL v2（GNU General Public License Version 2, June 1991）
 
 📦 版本演进\
-v3：使用 Python 完全重写\
-v2 及更早：依赖 gcc 或其他 C 编译器手动编译
+v3：使用 Python 完全重写，避免所有C语言版本的内存安全问题，并支持直接从网络磁盘启动。\
+v2：修复了拖拽文件打开方式不支持跨盘打开的问题，并支持多文件多开。修复了可能导致内存越界访问的bug。\
+v1：初始版本。
 
 📌 已知问题\
 国际化选项卡中的各语言选项显示为英文（不影响主要功能）
