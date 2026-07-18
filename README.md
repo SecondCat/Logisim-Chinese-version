@@ -1,7 +1,8 @@
 # Logisim2.7.1 免Java中文版
-如果打开软件是英文界面，依次点击左上角 File -> Preferences... -> Chinese 切换为中文
+如果打开软件是英文界面，依次点击左上角 File -> Preferences... -> International -> Chinese 切换为中文
 
 📥 GitHub下载：https://github.com/SecondCat/Logisim-Chinese-version/releases/ \
+📥 百度网盘下载：https://pan.baidu.com/s/5Rj5oSFzELQUUe2SGrBLL1Q?/   \
 🌐 CSDN：https://blog.csdn.net/m0_59667483/article/details/125941447  \
 🌐 Logisim官网：http://www.cburch.com/logisim/
 
